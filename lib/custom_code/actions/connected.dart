@@ -6,8 +6,7 @@ import 'package:flutter/material.dart';
 // Begin custom action code
 // DO NOT REMOVE OR MODIFY THE CODE ABOVE!
 
-import '/backend/backend.dart';
-import '/backend/schema/structs/index.dart';
+import 'dart:async';
 
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'dart:io';
